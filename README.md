@@ -1,4 +1,4 @@
-## 👋 Hello, Fellow Coders!
+## 👋 Hello, WORLD!
 
 I'm Karim Triki, a robotics engineering student at the University of Genoa, Italy. I hold a bachelor's degree in automation engineering from the University of Bechar, Algeria.
 
