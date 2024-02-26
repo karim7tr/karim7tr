@@ -54,9 +54,6 @@
   [![Telegram](https://img.shields.io/badge/Telegram-black?style=flat-square&logo=telegram)](https://t.me/Bkill11_5)
   [![Instagram](https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram)](https://www.instagram.com/karrim_tr?igsh=MTRvN3ZwZm9nMHJwcQ%3D%3D&utm_source=qr)
   [![Gmail](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=gmail)](https://karimtriki100@gmail.com)
-```
-
-This will display the icons as shields with the specified colors and logos, linked to the respective profiles.
 
 - ⚡ Fun Facts
 
